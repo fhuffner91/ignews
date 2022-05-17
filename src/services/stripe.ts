@@ -8,6 +8,6 @@ export const stripe = new Stripe(
             name: 'IgNews',
             version: '0.1.0'
         }
-    },
+    }
 
 )
